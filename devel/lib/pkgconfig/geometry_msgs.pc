@@ -1,0 +1,8 @@
+prefix=/home/debian/_DEV/eduMip/devel
+
+Name: geometry_msgs
+Description: Description of geometry_msgs
+Version: 1.12.7
+Cflags: -I/home/debian/_DEV/eduMip/devel/include
+Libs: -L/home/debian/_DEV/eduMip/devel/lib 
+Requires: message_runtime std_msgs

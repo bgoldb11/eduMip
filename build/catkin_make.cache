@@ -1,0 +1,2 @@
+edumip_balance_ros:edumip_msgs:geometry_msgs
+-DCATKIN_DEVEL_PREFIX=/home/debian/_DEV/eduMip/devel -DCMAKE_INSTALL_PREFIX=/home/debian/_DEV/eduMip/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/debian/_DEV/eduMip/devel
+
+Name: edumip_msgs
+Description: Description of edumip_msgs
+Version: 1.0.0
+Cflags: -I/home/debian/_DEV/eduMip/devel/include
+Libs: -L/home/debian/_DEV/eduMip/devel/lib 
+Requires: message_runtime std_msgs
